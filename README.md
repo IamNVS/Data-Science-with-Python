@@ -1,27 +1,44 @@
-IBM Data Science Certification – Jupyter Notebooks
-This repository contains all the code and practice exercises I worked on while completing the IBM Data Science Certification. It serves as a comprehensive reference for various data science concepts, covering topics such as data analysis, machine learning, and model evaluation using Python.
+# IBM Data Science Certification – Jupyter Notebooks  
 
-📌 About the Repository
-This repository includes Jupyter Notebooks used throughout the certification, containing:
+This repository contains all the **Jupyter Notebooks** I worked on while completing the **IBM Data Science Certification**. It includes **practice exercises, projects, and all the code** I wrote throughout the certification. This serves as a **comprehensive reference** for data science concepts, Python programming, and machine learning.  
 
-Hands-on exercises and projects
-Machine learning model implementations
-Data preprocessing and visualization
-Exploratory data analysis (EDA)
-Feature engineering and transformation
-Regression, classification, and clustering algorithms
+## 📌 About This Repository  
 
-🚀 Technologies Used
-Python
-Jupyter Notebook
-Pandas, NumPy – Data manipulation
-Matplotlib, Seaborn – Data visualization
-Scikit-Learn – Machine learning models
-Scipy, Statsmodels – Statistical analysis
-📊 Key Topics Covered
-Data Preprocessing: Handling missing values, feature scaling, encoding categorical variables
-Exploratory Data Analysis (EDA): Understanding data distributions, correlations, and insights
-Supervised Learning: Linear regression, logistic regression, decision trees, random forests
-Unsupervised Learning: K-means clustering, hierarchical clustering, PCA
-Model Evaluation: R² score, RMSE, cross-validation, overfitting vs. underfitting
-Hyperparameter Tuning: GridSearchCV, RandomizedSearchCV
+This repository covers key **data science topics**, including:  
+✔️ **Python for Data Science**  
+✔️ **Data Wrangling & Preprocessing**  
+✔️ **Exploratory Data Analysis (EDA)**  
+✔️ **Data Visualization**  
+✔️ **Machine Learning (Supervised & Unsupervised)**  
+✔️ **Big Data & SQL for Data Science**  
+✔️ **Capstone Projects & Real-World Applications**  
+
+---
+
+
+---
+
+## 🚀 Technologies & Libraries Used  
+
+- **Python**  
+- **Jupyter Notebook**  
+- **Pandas** – Data manipulation  
+- **NumPy** – Numerical computing  
+- **Matplotlib & Seaborn** – Data visualization  
+- **Scikit-learn** – Machine Learning models  
+- **SQL & Big Data Tools** – Data handling  
+
+---
+
+## 📊 Key Topics Covered  
+
+1. **Python for Data Science**: Data structures, loops, functions  
+2. **Data Wrangling**: Handling missing data, transforming variables  
+3. **Exploratory Data Analysis (EDA)**: Insights from data  
+4. **Data Visualization**: Using Matplotlib, Seaborn, Plotly  
+5. **Machine Learning**: Regression, classification, clustering  
+7. **SQL & Big Data**: Working with databases  
+8. **Capstone Project**: Applying everything in a real-world problem  
+
+---
+
